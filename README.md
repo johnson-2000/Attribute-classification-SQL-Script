@@ -1,4 +1,4 @@
-# Attribute Classification for Dangerous Goods
+# Attribute Classification Project
 ## Overview
 This project focuses on attribute classification for transporting dangerous goods, incorporating over 100 rules and regulations from the EU and USA. The SQL script, totaling 500+ lines of code, demonstrates advanced SQL scripting skills and a comprehensive understanding of regulatory requirements.
 
